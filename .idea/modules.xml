@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Omnevo.iml" filepath="$PROJECT_DIR$/.idea/modules/Omnevo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Omnevo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Omnevo-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/application.iml" filepath="$PROJECT_DIR$/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repository/repository.iml" filepath="$PROJECT_DIR$/repository/repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlservices/xmlservices.iml" filepath="$PROJECT_DIR$/xmlservices/xmlservices.iml" />
+    </modules>
+  </component>
+</project>

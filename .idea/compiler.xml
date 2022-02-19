@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EqualExperts" options="-encoding utf8 -g" />
+      <module name="Omnevo" options="" />
+      <module name="application" options="" />
+      <module name="repository" options="-encoding utf8 -g" />
+      <module name="xmlservices" options="-encoding utf8 -g" />
+    </option>
+  </component>
+</project>

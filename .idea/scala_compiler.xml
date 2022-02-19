@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="application,domain">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-language:_" />
+        <parameter value="-Wvalue-discard" />
+        <parameter value="-Xfatal-warnings" />
+        <parameter value="-Ymacro-annotations" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/kind-projector_2.13.8/0.13.2/kind-projector_2.13.8-0.13.2.jar" />
+      </plugins>
+    </profile>
+    <profile name="sbt 2" modules="EqualExperts,repository,xmlservices">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-language:_" />
+        <parameter value="-Wvalue-discard" />
+        <parameter value="-Xfatal-warnings" />
+        <parameter value="-Ymacro-annotations" />
+        <parameter value="-encoding" />
+        <parameter value="utf8" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/kind-projector_2.13.8/0.13.2/kind-projector_2.13.8-0.13.2.jar" />
+      </plugins>
+    </profile>
+    <profile name="sbt 3" modules="Omnevo">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-language:_" />
+        <parameter value="-Wvalue-discard" />
+        <parameter value="-Xfatal-warnings" />
+        <parameter value="-Ymacro-annotations" />
+      </parameters>
+    </profile>
+  </component>
+</project>
